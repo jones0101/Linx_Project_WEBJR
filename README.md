@@ -1,18 +1,18 @@
 #  LINX DIGITAL CHALLENGE - WEB DESIGNER JR - JONES GUIMARÃES
 
 
-### About the challenge:
-Hi! First of all I want to thank you guys for the opportunity! 🙏🏻
+## About the challenge:
+<p> Hi! First of all I want to thank you guys for the opportunity! 🙏🏻
 
 🚀  The Challenge was very exciting to do, I learned a lot from the beginning of the project and regardless of the result, makes me realize I can do so much more that I thought I could.
 
 🧠 The biggest thing I’ve learn with this challenge was to try your best e just go for it. Sometimes you need to push a little harder.
 
-🧩 The most difficult part of the project was Sass - The thing I wasn’t able to do it , yet. I’m not really used to work with preprocessing, but what I was able to do was working with .scss. It's a start. :)
+🧩 The most difficult part of the project was Sass - The thing I wasn’t able to do it , yet. I’m not really used to work with preprocessing, but what I was able to do was working with .scss. It's a start. :)</p> 
 
 
 ## Status:
- 🚧  Developing 
+   Finished 
 
 ## Issues
 
@@ -22,18 +22,24 @@ Hi! First of all I want to thank you guys for the opportunity! 🙏🏻
 ![image](https://user-images.githubusercontent.com/34107249/118372979-9da6ca00-b58a-11eb-9e16-0f9497c707bc.png)
 
 
-### Pré-requisites
+## Pré-requisites
 
-Before you begin, you will need to have the following tools installed on your machine: [Git] (https://git-scm.com), [Koala] (http://koala-app.com/). In addition, it is good to have an editor to work with the code like [Sublime Text] (https://www.sublimetext.com/3/)
+<p> Before you begin, you will need to have the following tools installed on your machine: [Git] (https://git-scm.com), [Koala] (http://koala-app.com/). In addition, it is good to have an editor to work with the code like [Sublime Text] (https://www.sublimetext.com/3/)</p> 
 
 
-### 🛠 Technologies
++ Clone this Project: $ git clone https://github.com/Jonesguimaraes/Linx_Project_WEBJR
++ Run Koala for Sass / scss 
++ Get a text editor of your preference, I like to use <a href="https://www.sublimetext.com/3/">Sublime Text </a>
++ Edit whatever you like :) 
+
+
+## 🛠 Technologies
 The following tools were used in the construction of the project:
 
-- HTML
-- CSS
-- SCSS
-- Sass
++ HTML
++ CSS
++ SCSS
++ Sass
 
 
 ### Author
